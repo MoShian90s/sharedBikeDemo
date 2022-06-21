@@ -1,0 +1,23 @@
+html,
+body,
+#app{
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+.el-breadcrumb{
+	margin: 15px;
+	font-size: 12px;
+}
+.el-table{
+	margin-top: 10px;
+	font-size: 12px;
+	justify-content: space-between;
+}
+html::-webkit-scrollbar {
+	width:0;
+}
+::-webkit-scrollbar{
+	width: 1px;
+	background-color: transparent;
+}
